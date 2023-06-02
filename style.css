@@ -1,0 +1,25 @@
+.input_box{
+    position: absolute;
+    bottom: 10%;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.input_box2{
+    position: absolute;
+    right: 0;
+}
+.Sum{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.Sum p{
+    font-family: 600;
+    font-size: 30px;
+}
