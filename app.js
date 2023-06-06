@@ -17,8 +17,8 @@ function myFunction() {
 /////////////////////////////////1/////////////////////////////////////////
 var elem = document.createElement("img");
 elem.setAttribute("src", "https://www.simplilearn.com/ice9/free_resources_article_thumb/Become_a_Front_End_Developer.jpg");
-elem.setAttribute("height", "768");
-elem.setAttribute("width", "1024");
+elem.setAttribute("height", "60%");
+elem.setAttribute("width", "40%");
 elem.setAttribute("alt", "Flower");
 elem.style.position = "relative"
 elem.style.left= "20%"
